@@ -98,6 +98,10 @@ name = "binary_op"
 
 [[bench]]
 harness = false
+name = "issue_25035"
+
+[[bench]]
+harness = false
 name = "simplify"
 
 [[bench]]
